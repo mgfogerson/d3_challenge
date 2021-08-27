@@ -1,1 +1,1 @@
-# d3_hw
+For this D3 homework, I used the D3 library to create a scatter chart of all US states, including their abbreviation on each dot and a tooltip describing their x and y values. For the values, I charted the relationship between income and percentage of residents without healthcare. This chart demonstrates the fine level of detail available in charting with the D3 library, and could be enhanced further by adding more dimensions to each axis.
